@@ -1,2 +1,3 @@
- const API="https://63725b45025414c6370d9881.mockapi.io/datatable"; 
+ const API="http://18.221.90.180:5000"; 
  export default API;
+
